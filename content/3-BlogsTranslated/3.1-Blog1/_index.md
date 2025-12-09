@@ -1,7 +1,7 @@
 ---
-title: "Artificial Intelligence: Integrating Tokenization with Amazon Bedrock Guardrails for Secure Data Processing"
+title: "Blog 1"
 date: 2025-09-23
-weight: 2
+weight: 1
 chapter: false
 pre: " <b> 3.1. </b> "
 ---

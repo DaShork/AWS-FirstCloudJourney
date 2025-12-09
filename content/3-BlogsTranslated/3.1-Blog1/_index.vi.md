@@ -1,5 +1,5 @@
 ---
-title: "Blog Tích hợp mã hóa token (tokenization) với Amazon Bedrock Guardrails để xử lý dữ liệu an toàn"
+title: "Blog 1"
 date: 2025-09-23
 weight: 1
 chapter: false

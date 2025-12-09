@@ -16,11 +16,11 @@ pre: " <b> 1.5. </b> "
 | --- | ------------------ | ---------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2   | - Complete Lab 10  | 06/10/2025 | 06/10/2025      | [Lab10](https://000010.awsstudygroup.com/)                                                                                                                          |
 | 3   | - Complete Lab 19  | 07/10/2025 | 07/10/2025      | [Lab19](https://000019.awsstudygroup.com/)                                                                                                                          |
-| 4   | - Translate Blog 1 | 08/10/2025 | 08/10/2025      | [Blog 1](https://aws.amazon.com/vi/blogs/big-data/enhance-governance-with-metadata-enforcement-rules-in-amazon-sagemaker/)                                          |
-| 5   | - Translate Blog 2 | 09/10/2025 | 09/10/2025      | [Blog 2](https://aws.amazon.com/blogs/devops/extend-the-amazon-q-developer-cli-with-mcp/)                                                                           |
+| 4   | - Translate Blog 1 | 08/10/2025 | 08/10/2025      | [Blog 1](https://aws.amazon.com/blogs/machine-learning/integrate-tokenization-with-amazon-bedrock-guardrails-for-secure-data-handling/)                             |
+| 5   | - Translate Blog 2 | 09/10/2025 | 09/10/2025      | [Blog 2](https://aws.amazon.com/blogs/machine-learning/running-deep-research-ai-agents-on-amazon-bedrock-agentcore/)                                                |
 | 6   | - Translate Blog 3 | 10/10/2025 | 10/10/2025      | [Blog 3](https://aws.amazon.com/blogs/awsforsap/enhance-resiliency-and-data-protection-for-sap-hana-high-availability-deployments-with-amazon-backup-for-sap-hana/) |
 
-### Week 5 Achievements:
+### Week 5 Achievements:=
 
 - Completed Lab 10 with the following outcomes:
 

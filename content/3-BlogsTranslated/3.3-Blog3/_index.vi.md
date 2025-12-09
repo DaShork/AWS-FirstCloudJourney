@@ -1,5 +1,5 @@
 ---
-title: "Blog AWS Card Clash (VI)"
+title: "Blog 3"
 date: 2025-09-23
 weight: 1
 chapter: false

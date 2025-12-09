@@ -1,9 +1,9 @@
 ---
-title: "Blog Chạy các agent AI nghiên cứu chuyên sâu"
+title: "Blog 2"
 date: 2025-09-23
 weight: 1
 chapter: false
-pre: " <b> 3.3. </b> "
+pre: " <b> 3.2. </b> "
 ---
 
 # Trí tuệ Nhân tạo (AI): Chạy các agent AI nghiên cứu chuyên sâu trên Amazon Bedrock AgentCore

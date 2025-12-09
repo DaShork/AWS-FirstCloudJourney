@@ -63,5 +63,3 @@ pre: " <b> 4.1. </b> "
 #### 3. Cân bằng Đổi mới và Tuân thủ (Balancing Innovation and Compliance)
 
 * **Bảo mật Tích hợp Sâu**: Các phiên đã nhấn mạnh tầm quan trọng của việc thiết kế kiến trúc bảo mật ngay từ đầu, từ việc sử dụng các agent cho kiểm toán tự động đến việc áp dụng GenAI để xây dựng các hợp đồng dữ liệu an toàn.
-
----

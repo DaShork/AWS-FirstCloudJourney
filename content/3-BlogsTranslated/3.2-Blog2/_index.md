@@ -1,9 +1,9 @@
 ---
-title: "Blog Running Deep Research AI Agents"
+title: "Blog 2"
 date: 2025-09-23
 weight: 1
 chapter: false
-pre: " <b> 3.3. </b> "
+pre: " <b> 3.2. </b> "
 ---
 
 # Artificial Intelligence: Running Deep Research AI Agents on Amazon Bedrock AgentCore
