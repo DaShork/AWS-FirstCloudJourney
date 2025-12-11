@@ -1,5 +1,5 @@
 ---
-title: "Workshop 5: S3 Static Website & CloudFront"
+title: "Workshop"
 date: 2025-09-09
 weight: 5
 chapter: true
